@@ -1,2 +1,5 @@
-# etchasketch
-Etch_A_sketch Game
+- Complete single-file web application
+- 4 theme modes: Original, Light, Dark, Liquid Glass  
+- Auto-draw and tracing modes with real knob rotation
+- Mobile responsive design with theme switcher
+- Easter egg: Click logo to open README
