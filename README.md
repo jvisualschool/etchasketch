@@ -2,6 +2,8 @@
 
 맥북 최적화 디지털 Etch-A-Sketch - 4가지 테마 & 자동 그리기 & 트레이싱 모드
 
+## demo https://ai.jvisualschool.com/Etch_A_sketch
+
 ## 📖 프로젝트 소개
 
 **Auto-Draw Etch-A-Sketch**는 클래식한 Etch-A-Sketch 장난감을 디지털로 재현한 웹 애플리케이션입니다. 실제 Etch-A-Sketch의 사실적인 디자인과 함께 현대적인 기능들을 추가하여, 이미지를 자동으로 그리거나 직접 따라 그릴 수 있는 두 가지 모드를 제공합니다.
